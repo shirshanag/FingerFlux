@@ -28,7 +28,7 @@ This project demonstrates:
 ## ✨ Features
 
 * Real-time hand detection
-* Finger counting
+* Finger counting (0-5)
 * Landmark visualization
 * Webcam integration
 * Fast and lightweight pipeline
