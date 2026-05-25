@@ -40,7 +40,7 @@ This project demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/FingerFlux.git
+git clone https://github.com/shirshanag/FingerFlux.git
 cd FingerFlux
 ```
 
